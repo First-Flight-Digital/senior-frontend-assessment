@@ -35,7 +35,7 @@ Once complete, please provide the following via email:
   - React (or similar)
   - TypeScript (optional)
 - Fonts - "Lato" (Google/Shopify font)
-- Icons/Images - the icons snippet and image files are in `/resources`
+- Icons/images - the icons snippet and image files are in `/resources`
 - Free [Rapid API](https://rapidapi.com/) account required
   - To consume this API - https://rapidapi.com/joeykyber/api/ski-resort-forecast
 
