@@ -29,7 +29,7 @@ Once complete, please provide the following via email:
 4. Any testing instructions and relevant documentation in your README.md.
 
 ## What you'll need
-- Tech stack - we recommend the following using the following tech stack:
+- Tech stack - we recommend using the following tech stack:
   - TailwindCSS
   - SCSS (only if necessary)
   - React (or similar)
