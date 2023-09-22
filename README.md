@@ -2,7 +2,7 @@
 
 We appreciate you taking the time to complete this frontend technical assessment. Let us know if you have any questions!
 
-## What we look for
+## What we look for / criteria for success
 
 - Your eye for detail
 - Understanding of Shopify
@@ -11,12 +11,12 @@ We appreciate you taking the time to complete this frontend technical assessment
 - HTML semantics, a11y and SEO
 - Code and site performance awareness
 - Fluid responsiveness
-- Translating requirements into code
+- Translating requirements and designs into code
 - Documentation and clear instructions
 
 ## Submission
 
-Once complete, please provide the following:
+Once complete, please provide the following via email:
 - Shopify preview link
 - Preview password
 - Your repo link
@@ -47,7 +47,7 @@ Once complete, please provide the following:
   - in-flight-over-mountains.jpg
   - snow-covered-black-rocked-peaks.jpg
 - Mobile image is optional, fall back to a cropped portrait version of the desktop image.
-- Text conponents should be blocks so they can be reordered.
+- Text components should be blocks so they can be reordered.
 - (Optional) Add other configuration options that a client may like. Please note however, your final submission should include the settings that match the designs.
 
 ## Section 2 - Feature product
@@ -75,7 +75,7 @@ Once complete, please provide the following:
   - Rapid API account required.
 - Find a ski resort by search ([list of all ski resorts](https://www.skiresort.info/ski-resorts/)).
   - Search requires a minimum of 3 characters.
-  - Be sure to throttle/debounce request.
+  - Avoid excessive API requests (throttle/debounce).
   - (Optional) Request loading indicator.
 - Display the forecast of the first available day:
   - Show the minimum and maximum temperature of the whole day.
@@ -83,4 +83,5 @@ Once complete, please provide the following:
 - Once a resort is loaded, browser should keep track of the user's preferred ski resort and preload this on page reload.
 - (Optional) Emoji weather icon based on weather conditions.
 - (Optional) "Open in Maps" links to Google Maps.
-- (Optional) Tempurature background colours based on the ranges specified here - https://www.weatherzone.com.au/help/legend#legend_temperature.
+- (Optional) Temperature background colours based on the ranges specified here - https://www.weatherzone.com.au/help/legend#legend_temperature.
+- (Optional) Handle error cases gracefully.
