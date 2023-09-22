@@ -26,7 +26,7 @@ Once complete, please provide the following via email:
 1. Create a development store with Shopify's [generated test data](https://shopify.dev/docs/apps/tools/development-stores/generated-data).
 2. Start a completely blank theme, you'll only need the homepage.
 3. Translate the designs in `/designs` into your theme i.e. build a header and the 3 sections.
-4. Add any testing instructions and relevant documentation in your README.md.
+4. Add any testing instructions and relevant documentation to your README.md.
 
 ## What you'll need
 - Tech stack - we recommend using the following tech stack:
